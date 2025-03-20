@@ -1,0 +1,320 @@
+1. What are the two main categories of languages based on understandability?
+A) High-Level and Low-Level Languages
+B) Scripting and Compiled Languages
+C) Natural and Programming Languages
+D) Object-Oriented and Procedural Languages
+
+Ans: C) Natural and Programming Languages
+
+2. Which of the following is NOT a feature of Java?
+A) Platform Independence
+B) Garbage Collection
+C) Pointers Support
+D) Object-Oriented
+
+Ans: C) Pointers Support
+
+3. What does the Bytecode Verifier check during class loading?
+A) If the Java program has syntax errors
+B) If the bytecode follows Java security rules
+C) If the program is optimized for execution
+D) If the program has redundant variables
+
+Ans: B) If the bytecode follows Java security rules
+
+4. How does Java achieve platform independence?
+A) By using machine code compilation
+B) By translating bytecode into OS-specific instructions using JVM
+C) By using static memory allocation
+D) By storing all code in XML format
+
+Ans: B) By translating bytecode into OS-specific instructions using JVM
+
+5. Which Java component is necessary to execute a compiled Java program?
+A) JDK
+B) JVM
+C) Compiler
+D) Debugger
+
+Ans: B) JVM
+
+
+6. Which of these Java features is responsible for ensuring memory safety?
+A) Bytecode Verifier
+B) JIT Compiler
+C) Garbage Collector
+D) Java API
+
+Ans: C) Garbage Collector
+
+7. What is the main difference between JDK and JRE?
+A) JDK contains tools for development, while JRE only allows program execution
+B) JRE is required for compilation, while JDK is for execution
+C) JDK is used for GUI applications, while JRE is for backend applications
+D) JRE contains additional debugging tools.
+
+Ans:A) JDK contains tools for development, while JRE only allows program execution
+
+8. Why is JVM considered platform-dependent?
+A) JVM needs to be rewritten for each OS
+B) JVM executes native machine code
+C) JVM compiles Java programs into OS-specific binaries
+D) JVM is written in assembly language
+
+Ans: C) JVM compiles Java programs into OS-specific binaries
+
+9. Which of the following is NOT a type of Java software?
+A) JDK
+B) JRE
+C) JVM
+D) JBC
+
+Ans: JBC
+
+10. What is the purpose of bytecode in Java?
+A) It directly interacts with the CPU
+B) It ensures Java programs can run on any OS
+C) It is used for debugging Java programs
+D) It helps Java use memory efficiently
+
+Ans: B) It ensures Java programs can run on any OS
+
+11. Why can’t a lower version JVM execute bytecode compiled with a higher version compiler?
+A) JVM versions are forward-compatible but not backward-compatible
+B) The newer compiler generates assembly code instead of bytecode
+C) JVM versions do not support multiple Java versions
+D) The compiled code is encrypted
+
+Ans: A) JVM versions are forward-compatible but not backward-compatible
+
+12. Which component is responsible for verifying Java bytecode before execution?
+A) JIT Compiler
+B) Java Debugger
+C) Bytecode Verifier
+D) Java Reflection API
+
+Ans:C) Bytecode Verifier
+
+13. What is the primary function of the Java Runtime Environment (JRE)?
+A) It provides tools for Java program development
+B) It runs Java applications by providing JVM and libraries
+C) It compiles Java programs into bytecode
+D) It translates Java code into assembly language
+
+Ans: B) It runs Java applications by providing JVM and libraries
+
+14. What is the full form of JDK?
+A) Java Debugging Kit
+B) Java Development Kit
+C) Java Deployment Kit
+D) Java Dynamic Kit
+
+Ans:B) Java Development Kit
+
+15. What are the main types of Java applications?
+A) Desktop, Web, Mobile, Embedded
+B) Static, Dynamic, Distributed
+C) Cloud-based, Standalone, Hybrid
+D) Web-based, Desktop-only, Mobile-only
+
+Ans: A) Desktop, Web, Mobile, Embedded
+
+16. What is the purpose of Java SE?
+A) It is used for developing enterprise applications
+B) It is used for developing mobile applications
+C) It provides core libraries for general-purpose programming
+D) It is a lightweight version of Java for embedded systems
+
+Ans: C) It provides core libraries for general-purpose programming
+
+17. What feature of Java ensures that objects are automatically removed from memory when no longer needed?
+A) Exception Handling
+B) Garbage Collection
+C) Memory Compression
+D) Thread Management
+
+Ans: B) Garbage Collection
+
+18. Why was Java originally developed?
+A) To build mobile applications
+B) To create an object-oriented programming language
+C) To develop secure web applications
+D) To allow hardware-independent software execution
+
+Ans: D) To allow hardware-independent software execution
+
+19. What is the main advantage of using JIT (Just-In-Time) Compilation?
+A) Faster execution of Java programs
+B) Memory-efficient execution
+C) Direct hardware interaction
+D) Support for multiple programming languages
+
+Ans: A) Faster execution of Java programs
+
+20. What does the Java Virtual Machine (JVM) do?
+A) It translates Java source code into bytecode
+B) It converts Java bytecode into machine code
+C) It compiles Java programs directly into native binaries
+D) It provides a cloud execution environment for Java
+
+Ans: B) It converts Java bytecode into machine code
+
+21. What is the main reason why Java programs are considered portable?
+A) Java uses static memory allocation
+B) Java applications do not require compilation
+C) Java bytecode can be executed on any system with a JVM
+D) Java does not depend on hardware resources
+
+Ans: C) Java bytecode can be executed on any system with a JVM
+
+22. What does the term "Write Once, Run Anywhere" mean in Java?
+A) Java programs require only one compilation for all platforms
+B) Java programs can only be compiled once
+C) Java programs are stored permanently in memory
+D) Java programs do not require an execution environment
+
+Ans: Java programs require only one compilation for all platforms.
+
+23. What is the primary function of the JIT compiler?
+A) To compile Java source code into bytecode
+B) To translate frequently executed bytecode into native machine code
+C) To convert Java programs into assembly language
+D) To optimize Java applications before compilation
+
+Ans: B) To translate frequently executed bytecode into native machine code
+
+24. What is the role of the Java Development Kit (JDK)?
+A) It allows the execution of Java applications
+B) It provides tools necessary for Java development
+C) It acts as an intermediate between Java and the operating system
+D) It optimizes memory management in Java
+
+Ans:B) It provides tools necessary for Java development
+
+25. Which of the following is NOT a Java application type?
+A) Web Applications
+B) Embedded Applications
+C) Cloud Applications
+D) System Driver Applications
+
+Ans: D) System Driver Applications
+
+26. How does the Java compiler handle Java source code?
+A) It converts it directly into machine code
+B) It interprets it line by line at runtime
+C) It translates it into bytecode
+D) It stores it in a cloud-based repository
+
+Ans: C) It translates it into bytecode
+
+27. Which component is responsible for executing Java programs?
+A) Java Compiler
+B) Java Virtual Machine (JVM)
+C) Java Debugger
+D) Java Runtime Environment (JRE)
+
+Ans: B) Java Virtual Machine (JVM)
+
+28. What happens if a Java program encounters an error during bytecode verification?
+A) The program continues execution with warnings
+B) The JVM halts execution and throws an error
+C) The JVM attempts to correct the error automatically
+D) The Java compiler recompiles the program
+
+Ans: B) The JVM halts execution and throws an error
+
+29. Why is Java considered a high-level programming language?
+A) It directly interacts with the hardware
+B) It uses human-readable syntax instead of machine code
+C) It only supports object-oriented programming
+D) It compiles programs directly into machine code
+
+Ans: B) It uses human-readable syntax instead of machine code
+
+30. What is the purpose of Java’s security model?
+A) To prevent unauthorized access to system resources
+B) To execute Java programs without using memory
+C) To optimize Java code for better execution speed
+D) To allow direct access to memory using pointers
+
+Ans: A) To prevent unauthorized access to system resources
+
+31. What is the main function of Java’s Garbage Collector?
+A) To free memory occupied by unused objects
+B) To store Java bytecode permanently
+C) To convert Java programs into machine code
+D) To increase the speed of Java execution
+
+Ans: A) To free memory occupied by unused objects
+
+32. Why does Java not support multiple inheritance?
+A) It prevents ambiguity in method resolution
+B) It does not allow classes to have more than one method
+C) It only supports one object per class
+D) It lacks the capability for polymorphism
+
+Ans: A) It prevents ambiguity in method resolution
+
+33. Which Java edition is used for developing large-scale distributed applications?
+A) Java SE
+B) Java EE
+C) Java ME
+D) Java Card
+
+Ans: B) Java EE
+
+34. What is the function of Java’s class loader?
+A) To execute Java programs on different platforms
+B) To manage memory allocation for Java applications
+C) To load Java classes into the JVM dynamically
+D) To convert Java programs into machine code
+
+Ans: C) To load Java classes into the JVM dynamically.
+
+35. What does the Java Bytecode Verifier check?
+A) If the bytecode is structured correctly
+B) If the bytecode contains infinite loops
+C) If the bytecode is optimized for execution
+D) If the bytecode can be converted into assembly
+
+Ans: A) If the bytecode is structured correctly
+
+36. What makes Java different from C in terms of memory management?
+A) Java provides explicit memory management tools
+B) Java allows manual allocation of memory using malloc()
+C) Java automatically handles memory management using the Garbage Collector
+D) Java stores all variables in a global memory pool
+
+Ans: C) Java automatically handles memory management using the Garbage Collector
+
+37. What is the main function of the Java Standard Edition (Java SE)?
+A) It is used for developing mobile applications
+B) It provides core functionality for general-purpose applications
+C) It is optimized for enterprise-level applications
+D) It allows direct interaction with hardware
+
+Ans: B) It provides core functionality for general-purpose applications
+
+38. Why is Java’s Just-In-Time (JIT) compilation beneficial?
+A) It reduces the need for bytecode verification
+B) It compiles frequently used bytecode into machine code for faster execution
+C) It allows Java programs to execute without the need for JVM
+D) It makes Java independent of operating systems
+
+Ans: B) It compiles frequently used bytecode into machine code for faster execution
+
+39. What is the primary reason Java was designed to be object-oriented?
+A) To increase performance by directly accessing memory
+B) To make code more modular and reusable
+C) To avoid the need for explicit memory management
+D) To eliminate the use of syntax errors
+
+Ans: B) To make code more modular and reusable
+
+40. Which of the following is a limitation of Java?
+A) It does not support garbage collection
+B) It requires a JVM to execute
+C) It cannot be used for enterprise applications
+D) It cannot be used for mobile applications
+
+Ans: B) It requires a JVM to execute.
